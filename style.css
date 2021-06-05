@@ -10,3 +10,7 @@
 .snap{
     margin-left: 20%;
 }
+
+canvas{
+    border:5px dotted black;
+}
